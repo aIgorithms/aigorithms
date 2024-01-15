@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aigorithms" /> </p>
 
-<img align="right" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
-
 - 🌱 I’m currently learning **Data Structures**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
@@ -13,6 +11,8 @@
 - 📫 How to reach me **algorithm775@gmail.com**
 
 - ⚡ Fun fact **I love Anime, Xbox, and the Nintendo Switch**
+
+<img align="right" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
