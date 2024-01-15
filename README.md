@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love watching anime and playing xbox**
 
-<img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+<img align="center" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
