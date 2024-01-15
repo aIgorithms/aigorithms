@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **algorithm775@gmail.com**
 
-- ⚡ Fun fact **I love watching anime and playing Xbox**
+- ⚡ Fun fact **I love watching anime and playing xbox**
 
 <img align="center" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
