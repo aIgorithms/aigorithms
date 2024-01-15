@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aigorithms" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif")
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 - 🌱 I’m currently learning **Data Structures**
 
