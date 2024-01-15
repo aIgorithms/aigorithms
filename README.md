@@ -1,4 +1,4 @@
-![Header] align="center" (./github-header-image.png)
+![Header](./github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aigorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aigorithms" /> </p>
 
