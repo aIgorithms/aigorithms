@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 🤝 I’m looking for help with **Data Structures and Alogrithms**
+- 🤝 I’m looking for help with **Data Structures and Algorithms**
 
 - 💬 Ask me about **Java, Python, C**
 
