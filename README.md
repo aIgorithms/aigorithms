@@ -1,6 +1,6 @@
 
 <center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width="400">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width="500">
 </center>
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">New Developer in the Bay Area</h3>
