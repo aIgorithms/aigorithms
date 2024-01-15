@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+<img align="center" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">New Developer in the Bay Area</h3>
